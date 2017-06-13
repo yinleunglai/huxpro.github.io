@@ -1,7 +1,7 @@
 # Site settings
 title: LSMORE
 SEOTitle: LSMORE | Software Product Development Service 
-header-img: img/home-bg.jpg
+header-img: img/home_bg.jpg
 email: liyanliang@lsmore.com
 description: "移动应用UX交互设计及开发实现 | 跨平台App开发 | 猎思科技，与您一起走向未来。"
 keyword: "ls, lsmore, 猎思，猎思科技，物联网，IOT"
@@ -74,7 +74,7 @@ ga_domain: lsmore.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "less is more，<br>让世界变得更简单"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lslogo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
